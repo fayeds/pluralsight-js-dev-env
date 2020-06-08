@@ -1,3 +1,26 @@
-<h1>Hello Scott!</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <% if (htmlWebpackPlugin.options.trackJSToken) { %>
+    <!-- BEGIN TRACKJS -->
+    <script type="text/javascript">window._trackJs = { token: '<%=htmlWebpackPlugin.options.trackJSToken%>' };</script>
+    <script type="text/javascript" src="https://cdn.trackjs.com/releases/current/tracker.js"></script>
+    <!-- END TRACKJS -->
+    <% } %>
 
-<script src="bundle.js"></script>
+</head>
+<h1>Users</h1>
+<h1>
+  <table>
+    <th></th>
+    <th>Id</th>
+    <th>First Name</th>
+    <th>Last Name</th>
+    <th>Email</th>
+    <tbody id="users">
+
+    </tbody>
+  </table>
+
+</h1>
+</html>

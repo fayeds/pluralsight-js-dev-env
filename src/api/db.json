@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 19493291,
+      "firstName": "Kyleigh",
+      "lastName": "Balistreri",
+      "email": "Izabella_Hauck56@yahoo.com"
+    },
+    {
+      "id": 4829265,
+      "firstName": "Bonita",
+      "lastName": "Halvorson",
+      "email": "Brooks36@yahoo.com"
+    },
+    {
+      "id": 36805957,
+      "firstName": "Mina",
+      "lastName": "Streich",
+      "email": "Sarah_Fisher@yahoo.com"
+    },
+    {
+      "id": 52075034,
+      "firstName": "Duncan",
+      "lastName": "Legros",
+      "email": "Ella_Pacocha@yahoo.com"
+    }
+  ]
+}
